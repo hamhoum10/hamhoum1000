@@ -14,7 +14,5 @@ Skills:  JavaScript | React | Angular | Node.js | Express.js | Java | Spring Boo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamhoum10&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hamhoum10/contributions?format=svg&private=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hamhoum10)  
 
